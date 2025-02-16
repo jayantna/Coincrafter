@@ -1,0 +1,7 @@
+[submodule "repo1"]
+    path = Backend
+    url = ./Backend
+
+[submodule "repo2"]
+    path = coincrafter-ui
+    url = ./coincrafter-ui
