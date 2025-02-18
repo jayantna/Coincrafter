@@ -1,7 +1,8 @@
 [submodule "repo1"]
     path = Backend
-    url = ./Backend
+    url = https://github.com/jayantna/coincrafter-backend.git
 
 [submodule "repo2"]
     path = coincrafter-ui
-    url = ./coincrafter-ui
+    url = https://github.com/jayantna/coincrafter-ui.git
+ 
